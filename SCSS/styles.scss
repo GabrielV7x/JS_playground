@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+
+}
+
+.main_container {
+  width: calc(100% - 10%);
+  margin: 0 auto;
+}
+
+
+.container_1 {
+  width: 50%;
+  margin: 0 auto;
+
+    h1 {
+      text-align: center;
+    }
+
+    .container_2 {
+      display: flex;
+
+      h2 {
+        display: inline-block;
+        margin: 0 auto;
+      }
+    }
+
+
+}

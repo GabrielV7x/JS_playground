@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.main_container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container_1 {
+  width: 50%;
+  margin: 0 auto;
+}
+.container_1 h1 {
+  text-align: center;
+}
+.container_1 .container_2 {
+  display: flex;
+}
+.container_1 .container_2 h2 {
+  display: inline-block;
+  margin: 0 auto;
+}
